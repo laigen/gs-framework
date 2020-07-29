@@ -4,7 +4,7 @@
 
 First clone the repo to local disk, assuming the local repo folder is */mnt/c/work/gs-framework*
 
-    git clone http://git.graphstrategist.com:8787/git/gft/gs-framework.git /mnt/c/work/gs-framework
+    git clone https://github.com/laigen/gs-framework.git /mnt/c/work/gs-framework
 
 then install with *-e* switch
 
